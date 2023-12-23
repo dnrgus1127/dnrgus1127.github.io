@@ -1,6 +1,6 @@
 name: Environment Variable - Secrets
 
-on: workflow_dispatch
+on: [push]
 
 jobs:
   secrets-test:
