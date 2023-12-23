@@ -9,6 +9,6 @@ jobs:
     steps:
       - name: Access Secrets
         run: |
-          echo "REACT_APP_PORTFOLIO_API_KEY = ${{secrets.REACT_APP_PORTFOLIO_API_KEY}}"
+          echo "REACT_APP_PORTFOLIO_API_KEY = ${{secrets.REACT_APP_PORTFOLIO_API_KEY}}" >> .env
         env: 
           REACT_APP_PORTFOLIO_API_KEY : ${{ secrets.REACT_APP_PORTFOLIO_API_KEY}}
