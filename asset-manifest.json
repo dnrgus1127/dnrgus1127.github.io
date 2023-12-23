@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.bb538ab4.css",
-    "main.js": "/static/js/main.2a7af245.js",
+    "main.js": "/static/js/main.cacd2b2e.js",
     "static/js/787.d30178c9.chunk.js": "/static/js/787.d30178c9.chunk.js",
     "static/media/Poppins-Black.ttf": "/static/media/Poppins-Black.d8b850b920a5ef49d752.ttf",
     "static/media/TimesNewerRoman-Regular.otf": "/static/media/TimesNewerRoman-Regular.4d759ea322f9988938b7.otf",
@@ -11,11 +11,11 @@
     "static/media/arrow_down.svg": "/static/media/arrow_down.a95a9aa7d1c89be1d3f77a87eebe5f9e.svg",
     "static/media/arrow_top.svg": "/static/media/arrow_top.1e61fda667a1444f318532f6dfdfc082.svg",
     "main.bb538ab4.css.map": "/static/css/main.bb538ab4.css.map",
-    "main.2a7af245.js.map": "/static/js/main.2a7af245.js.map",
+    "main.cacd2b2e.js.map": "/static/js/main.cacd2b2e.js.map",
     "787.d30178c9.chunk.js.map": "/static/js/787.d30178c9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bb538ab4.css",
-    "static/js/main.2a7af245.js"
+    "static/js/main.cacd2b2e.js"
   ]
 }
