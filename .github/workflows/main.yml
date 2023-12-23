@@ -11,5 +11,3 @@ jobs:
         run: |
           echo "REACT_APP_PORTFOLIO_API_KEY = ${{secrets.REACT_APP_PORTFOLIO_API_KEY}}" >> .env
           cat .env
-          ls
-          dir
