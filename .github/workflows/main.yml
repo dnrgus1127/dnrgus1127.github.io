@@ -6,8 +6,8 @@ jobs:
   deployment: 
      runs-on: ubuntu-latest 
      steps:
-      - uses: actions/checkout@v3  //해당 레포지토리로 check-out하여 레포지토리에 접근할 수 있는 Action 불러오기 
-      - uses: actions/setup-node@v3 //사용할 node 버전 (node 16 부터는 node@v3)
+      - uses: actions/checkout@v3  
+      - uses: actions/setup-node@v3
         with:
           node-version: '16'
       - name: Setting .env
